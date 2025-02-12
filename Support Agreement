@@ -2,22 +2,30 @@ AI generating conversation [here](https://chatgpt.com/share/67a3e395-6f78-800a-a
 
 # **SUPPORT ROLE AGREEMENT**  
 
-This **SUPPORT ROLE AGREEMENT** (this “Agreement”) is made and entered into as of the Effective Date (as defined below), by and between **Hats Protocol** (“Hats” or the “Organization”) and the individual or entity accepting the terms of this Agreement (“Support” or “Service Provider”). Hats and Support may each be referred to herein as a “Party” and collectively as the “Parties.”  
+This **SUPPORT ROLE AGREEMENT** (this “Agreement”) is made and entered into as of the [Effective Date] (as defined below), by and between [**Organization**] ("organization")and the individual or [**support**] ("support") accepting the terms of this Agreement. [Organization] and [Support] may each be referred to herein as a “Party” and collectively as the “Parties.”  
 ## **1. ENGAGEMENT AND SCOPE OF SERVICES**  
 
 ### **1.1 Engagement**  
-Hats hereby engages Support, and Support agrees to provide certain professional and operational services to Hats, in accordance with the terms and conditions set forth in this Agreement.  
+[organization] hereby engages Support, and Support agrees to provide certain professional and operational services [organization], in accordance with the terms and conditions set forth in this Agreement.
 
-### **1.2 Scope of Services**  
+### **1.2 Ricard Roles and their Description**  
+
+Blurb on ricard roles
+
 Support shall perform the following services, as may be required from time to time by Hats, in accordance with the priorities and directives established by the Hats hierarchy:  
 - **Accounting & Finance Services**: Support shall oversee financial records, budgeting, and compliance with financial policies applicable to the Organization.  
 - **Software Development & Engineering Services**: Support shall contribute to the development, maintenance, and optimization of software code and related systems within the Hats Protocol ecosystem.  
 - **Legal & Regulatory Services**: Support shall assist with contract drafting, regulatory compliance, and governance matters, as applicable.  
-- **Administrative Services**: Support shall facilitate the management of organizational records, correspondence, workflow coordination, and governance support.  
+- **Administrative Services**: Support shall facilitate the management of organizational records, correspondence, workflow coordination, and governance support 
+- **Comptroller
+- **Signature
+- **Curator
+- **Director
 - **Additional Services**: Support may be required to provide other services that align with the evolving needs of the Organization, as determined by the governance structure of Hats.  
+Specific deliverables, timeline, due dates, and additional specifics to the support are to be written in a separate agreement, merged into this one per 7.5 of this agreement.
 
 ### **1.3 Independent Contractor Status**  
-Support acknowledges and agrees that its engagement under this Agreement is that of an independent contractor, and nothing herein shall be construed to create an employer-employee, partnership, joint venture, or agency relationship between Hats and Support. Support shall have no authority to bind the Organization to any obligations, contracts, or commitments without prior written approval.  
+Support acknowledges and agrees that its engagement under this Agreement is that of an independent contractor, and nothing herein shall be construed to create an employer-employee, partnership, joint venture, or agency relationship between [Organization] and Support. Support shall have no authority to bind the Organization to any obligations, contracts, or commitments without prior written approval.  
 
 ## **2. TERM AND TERMINATION**  
 
@@ -28,7 +36,7 @@ This Agreement shall commence as of the Effective Date and shall continue in eff
 Either Party may terminate this Agreement for any reason or no reason upon [thirty (30)] days’ prior written notice to the other Party.  
 
 ### **2.3 Termination for Cause**  
-Hats may immediately terminate this Agreement in the event that Support:  
+[Organization] may immediately terminate this Agreement in the event that Support:  
 - Fails to perform its obligations in a manner consistent with the requirements of this Agreement;  
 - Breaches any material term of this Agreement and fails to cure such breach within [ten (10)] days following written notice thereof; or  
 - Engages in any conduct that is fraudulent, unethical, or otherwise harmful to the Organization.  
@@ -50,13 +58,18 @@ Support shall be entitled to reimbursement for pre-approved expenses incurred in
 ### **3.3 Taxes**  
 Support acknowledges and agrees that it is solely responsible for any and all taxes, withholdings, and other statutory obligations arising from the compensation received under this Agreement.  
 
-## **4. CONFIDENTIALITY AND INTELLECTUAL PROPERTY**  
+## **4. CONFIDENTIALITY, INTELLECTUAL PROPERTY, and MUTUAL NON COMPETE**  
 
-### **4.1 Confidential Information**  
+### **4.1 Confidential Information**  NONCOMPETE?
 Support agrees that, in connection with the provision of services hereunder, it may receive, have access to, or otherwise be exposed to non-public, proprietary, or confidential information of Hats, including but not limited to technical data, financial records, strategic plans, and governance documentation (collectively, “Confidential Information”). Support agrees to maintain the confidentiality of such Confidential Information and not to use or disclose it except as necessary to perform its obligations under this Agreement.  
 
 ### **4.2 Intellectual Property Rights**  
-Support acknowledges that any work product, documentation, software, inventions, or other materials developed, created, or contributed to in the performance of services under this Agreement (“Work Product”) shall be owned by Hats. To the extent any Work Product is not automatically deemed a work-for-hire under applicable law, Support hereby assigns all right, title, and interest in and to such Work Product to Hats.  
+Support acknowledges that any work product, documentation, software, inventions, or other materials developed, created, or contributed to in the performance of services under this Agreement (“Work Product”) shall be owned by organization. To the extent any Work Product is not automatically deemed a work-for-hire under applicable law, Support hereby assigns all right, title, and interest in and to such Work Product to organization.  
+### **4.3 Collaboration and Non-compete**
+[Support] and [Organization] Mutually agree that, for the duration of their engagement and for a period of [specify duration] following termination or experiation of this agreement, they shall:
+-Refrain from engaging in, establishing, or participating in any business that directly competes with the Services provided by the other party. Parties may do so with written permission from the other party. 
+-Not solicit clients, customers, partners, employees, or contractors from the other party without express or written permission.
+-Use confidential or proprietary information obtained through their engagement only for mutual benefit and not to support any competeting entity or initiative.
 
 ## **5. REPRESENTATIONS AND WARRANTIES**  
 
@@ -69,39 +82,56 @@ Each Party represents and warrants that:
 Support further represents and warrants that:  
 - It possesses the necessary expertise, experience, and qualifications to perform the services required under this Agreement;  
 - It shall perform all services in a professional and workmanlike manner, consistent with industry standards; and  
-- It shall comply with all applicable laws, regulations, and governance policies established by Hats.  
+- It shall comply with all applicable laws, regulations, and governance policies established by organization.  
+- By signing this hat, support warrants it has the skills necessary for the ricard roles, and understands if they cannot carry out the designated deliverables the relationship may be terminated or changed accordingly. 
 
-## **6. LIMITATION OF LIABILITY**  
+## **6. LIMITATION OF LIABILITY** 
 
-### **6.1 No Consequential Damages**  
-IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
+### **6.1 No Damages**  
+IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY DIRECT,INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL, PUNITIVE, or SPECIAL DAMAGES ARISING OUT OF OR RELATED TO THIS AGREEMENT, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, GOODWILL, DATA, OR OPERATIONAL FUNCTIONALITY. EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
 
 ### **6.2 Aggregate Liability**  
-THE TOTAL LIABILITY OF HATS UNDER THIS AGREEMENT SHALL NOT EXCEED THE AMOUNT OF COMPENSATION PAID TO SUPPORT IN THE [SIX (6)] MONTH PERIOD IMMEDIATELY PRECEDING THE CLAIM GIVING RISE TO SUCH LIABILITY.  
+THE TOTAL LIABILITY OF [ORGANIZATION] UNDER THIS AGREEMENT SHALL NOT EXCEED THE AMOUNT OF COMPENSATION PAID TO SUPPORT IN THE [SIX (6)] MONTH PERIOD IMMEDIATELY PRECEDING THE CLAIM GIVING RISE TO SUCH LIABILITY.  Do we need this?
+## **6.3 
+THE SUPPORT DOES NOT ASSUME LIABILITY FOR DATA PRIVACY, SECURITY BREACHES, OR COMPLIANCE OBLIGATIONS BEYOND ITS REASONABLE CONTROL. 
+## **6.4 Survival Clause**
+Sections 5,and 6 shall survive termination or expiration of this agreement
+
 
 ## **7. GENERAL PROVISIONS**  
 
 ### **7.1 Governing Law**  
-This Agreement shall be governed by and construed in accordance with the laws of [Jurisdiction], without regard to conflict of law principles.  
+This Agreement shall be governed by and construed in accordance with the laws of ZEDE Honduras invoked in "Reader" agreement, without regard to conflict of law principles. 
 
 ### **7.2 Dispute Resolution**  
-Any dispute, controversy, or claim arising out of or relating to this Agreement shall be resolved through binding arbitration in accordance with the rules of [Arbitration Body], and judgment upon the award rendered by the arbitrator(s) may be entered in any court having jurisdiction.  
+Any dispute, controversy, or claim arising out of or relating to this Agreement shall be resolved through binding arbitration in accordance with the rules of [Arbitration Body], and judgment upon the award rendered by the arbitrator(s) may be entered in any court having jurisdiction invoked in auxilliary agreements.  
 
 ### **7.3 Assignment**  
-Support may not assign or transfer its rights or obligations under this Agreement without the prior written consent of Hats. Hats may assign this Agreement without restriction.  
+Support may not assign or transfer its rights or obligations under this Agreement without the prior written consent of [Organization]. [Organization] may assign this Agreement without restriction.  
 
 ### **7.4 Entire Agreement**  
-This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior discussions, agreements, or understandings of any kind.  
+This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior discussions, agreements, or understandings of any kind, other than the following:
+### **7.5 Merger Clause**
+This agreement is intended to be read in conjunction with the following [Organization] agreements:
+-[Agreement 1]
+-[Agreement 2] (patron and contributor)
+-[Specifics of support instance separate agreement]
 
-### **7.5 Amendments**  
+### **7.5 Amendments**
 This Agreement may be amended only by a written instrument executed by both Parties.  
 
 ### **7.6 Counterparts**  
 This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.  
 
+### **7.7  Smart Contracts & Electronic Signatures**
+Electronic signatures and Smart Contracts shall be deemed valid if governed and construed in accordance with the UNCITRAL,CISG model laws for electronic commerce and best practices.
+
+### **7.8 Severability**
+If any provision of this agreement is found to be unlawful, void or unenforceable, the remaining provisions shall remain in full force and effect.
+
 IN WITNESS WHEREOF, the Parties have executed this Agreement as of the Effective Date.  
 
-**HATS PROTOCOL**  
+**ORGANIZATION*  
 By: ___________________________  
 Name: _________________________  
 Title: __________________________  
